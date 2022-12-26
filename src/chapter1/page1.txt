@@ -1,5 +1,46 @@
 
     Hello world
+    
+    Software development life cycle begins with requirement gathering in where
+    the client provides the  functional non functional requiments  to the project manager, product owner and business analyst.
+    This is where the document software requirement specifications is created.
+    
+    
+    
+    
+    
+    The second step starts with the  Architectures and designers creating the app model based of the software designing specifications document.
+    they build app model or blueprint for the app.
+    
+    
+    
+    
+   In the third the developers build the software through the chosen programming langauge. this step results in a product that can be tested in the next step
+    
+    
+    
+  once developed sdets test the functional requirements  and performance testers will test  non fuctional features
+
+ to cgeck for errors or bugs ,then inwhich they are reported to delvelopers so developers can fix the error . after the error is fixed, the software is retested and in this manner quality of the software is assured. 
+ 
+ 
+  
+  
+  production
+  app is releaased into the production envimorent  
+  end users use the app and 
+  
+  
+  
+  
+  mainteneance suppourt is required  for the end user and to be able to  the  need to assure any bugs or errors that may occror during new updates are added
+  i
+  
+  
+    
+    
+    
+    
 
 
     Good morning Git-hub!
