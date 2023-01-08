@@ -33,6 +33,10 @@
   
   
   
+  
+
+  
+  
   mainteneance suppourt is required  for the end user and to be able to  the  need to assure any bugs or errors that may occror during new updates are added
   i
   
@@ -44,3 +48,20 @@
 
 
     Good morning Git-hub!
+    
+    
+    
+      I have exeperience working within agile - scrum enviorment , which describes a set of meeetings, tools and roles that helped our teams stucture and manage our work.
+  
+  
+  
+          In our team we would have a 3 month release cycle where we would implement 2 week sprints. My team considted of one roduct owner 1 business analist 3 back end, 2 front end developers and 3 sdets.
+          
+          
+          
+        Our sprints begun on wendesday, with grooming and planing  meetings where we would go over the users stories that were in the product backlog and make acceptance critetia clear to everyone ,then we would proceed to estimete points. then after contuine to the sprint planing meeting where the  exact tasked are selected from the prodcut back log into the sprint backlog. based off our team capacity and defeinion of ready criteria then our team lead would asisn user story and task to each team member.then the sprint has offically started. Our activey spring would be in jira. where we would go over the tasks. we would update out task status by performing daily stand up meetings where i would talk about, what i did yesterday ?WHat will i do today? and What are my inpedements?. Everyday the burn down chart is updated to keep track of the team progress.
+        
+        
+        At the last day of each sprint , we would have our demo meeting with the client to present our completed work . the client may accept or reject the work depending on the definion of done criteria, All the completed work will be part of the product increment and all th rejected work will be sent to the prodcut backlog to be worked on next sprint.
+  
+  
